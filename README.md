@@ -1,0 +1,4 @@
+JavaProjects
+============
+
+General Java projects
